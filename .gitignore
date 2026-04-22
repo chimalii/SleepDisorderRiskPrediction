@@ -1,0 +1,4 @@
+classifier_model.keras
+scaler.joblib
+columnas_esperadas.joblib
+Interfaz.ipynb
